@@ -10,3 +10,9 @@ Simple client side form validation. Check requird, length, email and password ma
 - checkLength() to check min and max length
 - checkEmail() to validate email with regex
 - checkPasswordsMatch() to match confirm password
+
+# Screen Short
+
+<img src="form validator.gif">
+
+#Younus Ali Akash
