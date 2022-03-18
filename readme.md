@@ -15,4 +15,4 @@ Simple client side form validation. Check requird, length, email and password ma
 
 <img src="form validator.gif">
 
-#Younus Ali Akash
+# Created By Younus Ali Akash
